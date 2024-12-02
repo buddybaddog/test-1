@@ -1,1 +1,1 @@
-console.log('feature1 ko ok');
+console.log('feature1 ok');
